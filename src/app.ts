@@ -6,7 +6,7 @@ class ProjectState {
 
     private constructor() {
     }
-
+    // test1
     static getInstance() {
         if (this.instance) {
             return this.instance;
